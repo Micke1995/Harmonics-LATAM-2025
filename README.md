@@ -4,7 +4,7 @@
 ## 📄 Manuscript ID:
 IEEE LATAM 
 ## 📬 Submission ID:
-XXXX
+9609
 
 ## ✍️ Authors:
 Miguel G. Juarez, Felix Reyes-Maldonado, Alejandro Zamora-Mendez, José Ortiz-Bejar, Juan Carlos Silva-Chavez, Mario R. Arrieta Paternina, and Vicente Torres-Garcia
